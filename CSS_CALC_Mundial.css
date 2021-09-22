@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 854px;
+    background-image: url('https://www.arqtricolor.com/wp-content/uploads/2019/01/FIFA-1-768x494.jpg');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 30vh;
+  }
+  
+  .page-title {
+    color: #000000;
+    text-shadow: 1px 1px 1px #ffffff, 2px 2px 2px #00ABAB;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  
+  h2 {
+    padding: 20px;
+    position: absolute;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: bold;
+    top: 100px;
+    left: calc(50% - 72.5px);
+    width: 145px;
+    text-align: center;
+    background-color: #ffffff24;
+    
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+
+img {
+    margin: auto;
+    display: block;
+}
